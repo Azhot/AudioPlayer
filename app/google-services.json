@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146711789333",
+    "project_id": "audioplayer-4c9a0",
+    "storage_bucket": "audioplayer-4c9a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146711789333:android:bb6a194be1e3874ad8b31c",
+        "android_client_info": {
+          "package_name": "fr.azhot.audioplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146711789333-q3uis31ljk0cf4qekfionsj0q3duugj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYZJo0I8GrUV314WN0k1vVLMjholqFJog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146711789333-q3uis31ljk0cf4qekfionsj0q3duugj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
